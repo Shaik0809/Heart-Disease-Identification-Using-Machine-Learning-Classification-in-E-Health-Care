@@ -36,5 +36,4 @@ This project is an end-to-end Machine Learning + Django web application designed
     - Improve patient awareness
     - This project demonstrates how AI can be used for real-world healthcare impact.
 
-  ## Live Demo
-   https://shaik0809.github.io/Heart-Disease-Identification-Using-Machine-Learning-Classification-in-E-Health-Care/
+ 
